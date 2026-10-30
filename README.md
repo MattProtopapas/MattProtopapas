@@ -1,8 +1,8 @@
-# Hi, I'm Matt Protopapas 👋
+# Hi, I'm Matt Protopapas :wave:
 
 **Data & AI Consultant | Founder of [Kedros Analytics](https://kedros-analytics.github.io/) | 15+ Years in BI, Data Engineering & Analytics**
 
-Greece (working remotely across Europe) | 📧 matt@kedrosanalytics.com | [LinkedIn](https://www.linkedin.com/in/mattprotopapas) | [Blog](https://mattprotopapas.github.io/) | [Kedros Analytics](https://kedros-analytics.github.io/) | [YouTube](https://www.youtube.com/channel/UCNyea4_GisCpFFa-QSf9YWQ)
+Greece (working remotely across Europe) | :email: matt@kedrosanalytics.com | [LinkedIn](https://www.linkedin.com/in/mattprotopapas) | [Blog](https://mattprotopapas.github.io/) | [Kedros Analytics](https://kedros-analytics.github.io/) | [YouTube](https://www.youtube.com/channel/UCNyea4_GisCpFFa-QSf9YWQ)
 
 ---
 
@@ -21,24 +21,29 @@ Through **Kedros Analytics**, I bring the same enterprise-grade approach to Smal
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server%20%7C%20T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20Synapse%20%7C%20ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logo=delta&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
-**Data Platforms & Engineering:** Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks) · Databricks · Azure Synapse Analytics · Azure Data Factory · dbt · SSIS · Delta Lake & Parquet
+**Data Platforms & Engineering:** Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks) &middot; Databricks &middot; Azure Synapse Analytics &middot; Azure Data Factory &middot; dbt &middot; SSIS &middot; Delta Lake & Parquet
 
-**Languages:** Python (PySpark, pandas) · Spark SQL · T-SQL · DAX · Power Query (M)
+**Languages:** Python (PySpark, pandas) &middot; Spark SQL &middot; T-SQL &middot; DAX &middot; Power Query (M)
 
-**BI & Semantic Modelling:** Power BI (Certified) · Semantic models & AI-ready semantic layers · Tabular Editor · DAX Studio · Paginated reports / SSRS · SSAS
+**BI & Semantic Modelling:** Power BI (Certified) &middot; Semantic models & AI-ready semantic layers &middot; Tabular Editor &middot; DAX Studio &middot; Paginated reports / SSRS &middot; SSAS
 
-**Architecture & Practices:** Medallion architecture · Kimball dimensional modelling (SCD Types 1, 2, 6) · Data quality management · Unit & integration testing · Azure DevOps & Git · Agile (Scrum, Kanban)
+**Architecture & Practices:** Medallion architecture &middot; Kimball dimensional modelling (SCD Types 1, 2, 6) &middot; Data quality management &middot; Unit & integration testing &middot; Azure DevOps & Git &middot; Agile (Scrum, Kanban)
 
-**Advanced Analytics & AI:** Forecasting · Optimization · Customer segmentation · Market basket analysis · Statistical process control · AI-assisted development
+**Advanced Analytics & AI:** Forecasting &middot; Optimization &middot; Customer segmentation &middot; Market basket analysis &middot; Statistical process control &middot; AI-assisted development
 
 ---
 
-## Featured Repos
+## Featured Projects
 
 ### [Market Basket Analysis Demo](https://github.com/MattProtopapas/Market-Basket-Analysis-Demo) | Python + Excel
 A simple tool for discovering which products customers buy together, with built-in **data quality checks** and results delivered in Excel so non-technical users can act on them. Walkthrough on [YouTube](https://youtu.be/FGfTB3Uqg5k) and the [blog](https://mattprotopapas.github.io/2026/08/03/how-can-a-small-company-use-market-basket-analysis/).
@@ -66,9 +71,9 @@ More free Python & Excel tools for SMEs (demand forecasting, capital budgeting, 
 
 Client names are omitted; full case studies are on the [Kedros Analytics](https://kedros-analytics.github.io/) site.
 
-- **AI-ready data platform, global manufacturer:** designed the Microsoft Fabric architecture and an AI-ready semantic layer behind an AI-powered sales app, so account managers worldwide get trusted answers and recommendations. [Case study →](https://kedros-analytics.github.io/case-manuf-AI.html)
-- **Medallion Lakehouse, Fortune Europe 500 energy provider:** led a team of 5 to build a Medallion architecture on Microsoft Fabric and migrate Databricks, Synapse and Power BI assets for e-mobility analytics. [Case study →](https://kedros-analytics.github.io/case-BI-lakehouse.html)
-- **Supply chain control tower, Fortune Global 500 pharma:** built Power BI dashboards on OTIF and 3PL performance, and refactored Power BI & Snowflake models. [Case study →](https://kedros-analytics.github.io/case-global-powerbi.html)
+- **AI-ready data platform, global manufacturer:** designed the Microsoft Fabric architecture and an AI-ready semantic layer behind an AI-powered sales app, so account managers worldwide get trusted answers and recommendations. [Case study &rarr;](https://kedros-analytics.github.io/case-manuf-AI.html)
+- **Medallion Lakehouse, Fortune Europe 500 energy provider:** led a team of 5 to build a Medallion architecture on Microsoft Fabric and migrate Databricks, Synapse and Power BI assets for e-mobility analytics. [Case study &rarr;](https://kedros-analytics.github.io/case-BI-lakehouse.html)
+- **Supply chain control tower, Fortune Global 500 pharma:** built Power BI dashboards on OTIF and 3PL performance, and refactored Power BI & Snowflake models. [Case study &rarr;](https://kedros-analytics.github.io/case-global-powerbi.html)
 - **Loan operations reporting, leading Greek bank:** led a team of 3 to deliver 10 Power BI reports plus the SQL Server data mart and SSIS pipelines behind them.
 - **Enterprise Data Warehouse, PeopleCert:** led a team of 5 to build a Kimball-based EDW on Azure with a self-service SSAS model, and delivered 300+ Power BI, SSRS & Python analytical deliverables.
 
@@ -79,7 +84,7 @@ Client names are omitted; full case studies are on the [Kedros Analytics](https:
 - Increased reporting analysts' productivity **10x** through a holistic self-service BI model
 - Improved Power BI & Snowflake model performance **2.25x** while cutting capacity costs **2.15x**
 - Achieved **>10x productivity** on analytical asset development through AI-assisted engineering workflows
-- Brought DirectQuery report filter refreshes down to **2�? seconds** through targeted indexing strategies
+- Brought DirectQuery report filter refreshes down to **2&ndash;3 seconds** through targeted indexing strategies
 - Led data & BI teams of up to **5 people** across enterprise, banking and energy projects
 
 ---
@@ -90,16 +95,19 @@ Client names are omitted; full case studies are on the [Kedros Analytics](https:
 - **M.Sc. Operational Research**, Technical University of Crete
 - **B.Sc. Economics**, University of Crete
 - **Data Mining & Applications Graduate Certificate**, Stanford University
+- **Marie Curie Fellow**, Department of Statistics, Sapienza University of Rome
 - **Microsoft Certified: Fabric Analytics Engineer Associate**
 - **Microsoft Certified: Power BI Data Analyst Associate**
 - **Microsoft Certified: Azure AI Engineer Associate**
-
+- **Microsoft Certified: Azure Data Scientist Associate**
+- **Microsoft Applied Skills:** Implement a Data Warehouse in Microsoft Fabric
+- **Microsoft Applied Skills:** Implement a Lakehouse in Microsoft Fabric
 
 Published research on time series and game theory using genetic algorithms, e.g. [Coevolutionary genetic algorithms for establishing Nash equilibrium in symmetric Cournot games](https://arxiv.org/abs/0905.3640).
 
 ---
 
-## Latest from my Blog
+## Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Did That Promotion Actually Work? A/B Testing for Small Businesses](https://mattprotopapas.github.io/2026/10/23/did-that-promotion-actually-work-ab-testing-for-small-businesses/)
