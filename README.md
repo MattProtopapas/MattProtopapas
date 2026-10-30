@@ -23,14 +23,14 @@ Through **Kedros Analytics**, I bring the same enterprise-grade approach to Smal
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server%20%7C%20T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20Synapse%20%7C%20ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 **Data Platforms & Engineering:** Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks) &middot; Databricks &middot; Azure Synapse Analytics &middot; Azure Data Factory &middot; dbt &middot; SSIS &middot; Delta Lake & Parquet
 
-**Languages:** Python (PySpark, pandas) &middot; Spark SQL &middot; T-SQL &middot; DAX &middot; Power Query (M)
+**Languages:** Python (PySpark, pandas) &middot; Spark SQL &middot; T-SQL &middot; R &middot; DAX &middot; Power Query (M)
 
 **BI & Semantic Modelling:** Power BI (Certified) &middot; Semantic models & AI-ready semantic layers &middot; Tabular Editor &middot; DAX Studio &middot; Paginated reports / SSRS &middot; SSAS
 
