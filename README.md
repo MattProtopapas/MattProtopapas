@@ -8,7 +8,7 @@ Greece (working remotely across Europe) | :email: matt@kedrosanalytics.com | [Li
 
 ## About Me
 
-I design and build the data foundations, semantic models and reports that help organizations make better decisions. Over 15+ years I've worked with **30+ European organizations**, from Fortune Global 500 companies and Big 4 consultancies to banks, manufacturers and SMEs, in roles such as Analytics Team Lead, Data Architect, Data Engineer and Data Analyst.
+I design and build the data foundations, semantic models and BI reports that help organizations make better decisions. Over 15+ years I've worked with **30+ European organizations**, from Fortune Global 500 companies and Big 4 consultancies to banks, manufacturers and SMEs, in roles such as Analytics Team Lead, Data Architect, Data Engineer and Data Analyst.
 
 Lately my focus is on **AI-ready data platforms**: Medallion lakehouses and semantic layers in Microsoft Fabric that let AI agents and business users get trusted answers. I also use **AI-assisted development** (Claude, VS Code) in my own delivery, which has helped me and my teams ship analytical assets **over 10x faster**.
 
