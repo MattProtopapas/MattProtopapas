@@ -10,9 +10,9 @@ Greece (working remotely across Europe) | :email: matt@kedrosanalytics.com | [Li
 
 I design and build the data foundations, semantic models and BI reports that help organizations make better decisions. Over 15+ years I've worked with **30+ European organizations**, from Fortune Global 500 companies and Big 4 consultancies to banks, manufacturers and SMEs, in roles such as Analytics Team Lead, Data Architect, Data Engineer and Data Analyst.
 
-Lately my focus is on **AI-ready data platforms**: Medallion lakehouses and semantic layers in Microsoft Fabric that let AI agents and business users get trusted answers. I also use **AI-assisted development** (Claude, VS Code) in my own delivery, which has helped me and my teams ship analytical assets **over 10x faster**.
+Lately my focus is on **AI-ready data platforms**: Medallion Lakehouses and Semantic Layers that let AI agents and business users get trusted answers. I also use **AI-assisted development** (Claude, VS Code, etc.) in my own delivery, which has helped me and my teams ship analytical assets **over 10x faster**. I've used such tools in most of the repos in this GitHub profile.
 
-Through **Kedros Analytics**, I bring the same enterprise-grade approach to Small and Medium-sized Enterprises, because advanced analytics don't require advanced budgets.
+Through **Kedros Analytics**, I work in large scale projects with companies throughout Europe, while I also bring this enterprise-grade approach to Small and Medium-sized Enterprises. Because advanced analytics don't require advanced budgets.
 
 ---
 
