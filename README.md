@@ -1,6 +1,6 @@
 # Hi, I'm Matt Protopapas :wave:
 
-**Data & AI Consultant | Founder of [Kedros Analytics](https://kedros-analytics.github.io/) | 15+ Years in BI, Data Engineering & Analytics**
+**Data & AI Consultant | Founder of [Kedros Analytics](https://kedros-analytics.github.io/) | 15+ Years in corporate Data & Analytics**
 
 Greece (working remotely across Europe) | :email: matt@kedrosanalytics.com | [LinkedIn](https://www.linkedin.com/in/mattprotopapas) | [Blog](https://mattprotopapas.github.io/) | [Kedros Analytics](https://kedros-analytics.github.io/) | [YouTube](https://www.youtube.com/channel/UCNyea4_GisCpFFa-QSf9YWQ)
 
