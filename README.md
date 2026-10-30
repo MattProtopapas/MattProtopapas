@@ -25,9 +25,6 @@ Through **Kedros Analytics**, I bring the same enterprise-grade approach to Smal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server%20%7C%20T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20Synapse%20%7C%20ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logo=delta&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
@@ -43,7 +40,7 @@ Through **Kedros Analytics**, I bring the same enterprise-grade approach to Smal
 
 ---
 
-## Featured Projects
+## Featured Repos
 
 ### [Market Basket Analysis Demo](https://github.com/MattProtopapas/Market-Basket-Analysis-Demo) | Python + Excel
 A simple tool for discovering which products customers buy together, with built-in **data quality checks** and results delivered in Excel so non-technical users can act on them. Walkthrough on [YouTube](https://youtu.be/FGfTB3Uqg5k) and the [blog](https://mattprotopapas.github.io/2026/08/03/how-can-a-small-company-use-market-basket-analysis/).
@@ -95,13 +92,9 @@ Client names are omitted; full case studies are on the [Kedros Analytics](https:
 - **M.Sc. Operational Research**, Technical University of Crete
 - **B.Sc. Economics**, University of Crete
 - **Data Mining & Applications Graduate Certificate**, Stanford University
-- **Marie Curie Fellow**, Department of Statistics, Sapienza University of Rome
 - **Microsoft Certified: Fabric Analytics Engineer Associate**
 - **Microsoft Certified: Power BI Data Analyst Associate**
 - **Microsoft Certified: Azure AI Engineer Associate**
-- **Microsoft Certified: Azure Data Scientist Associate**
-- **Microsoft Applied Skills:** Implement a Data Warehouse in Microsoft Fabric
-- **Microsoft Applied Skills:** Implement a Lakehouse in Microsoft Fabric
 
 Published research on time series and game theory using genetic algorithms, e.g. [Coevolutionary genetic algorithms for establishing Nash equilibrium in symmetric Cournot games](https://arxiv.org/abs/0905.3640).
 
