@@ -1,6 +1,6 @@
 # Hi, I'm Matt Protopapas :wave:
 
-**Data & AI Consultant | Founder of [Kedros Analytics](https://kedros-analytics.github.io/) | 15+ Years in corporate Data & Analytics**
+**Data & AI Consultant | Founder of [Kedros Analytics](https://kedros-analytics.github.io/) | 15+ Years in Corporate Data & Analytics**
 
 Greece (working remotely across Europe) | :email: matt@kedrosanalytics.com | [LinkedIn](https://www.linkedin.com/in/mattprotopapas) | [Blog](https://mattprotopapas.github.io/) | [Kedros Analytics](https://kedros-analytics.github.io/) | [YouTube](https://www.youtube.com/channel/UCNyea4_GisCpFFa-QSf9YWQ)
 
@@ -12,7 +12,7 @@ I design and build the data foundations, semantic models and BI reports that hel
 
 Lately my focus is on **AI-ready data platforms**: Medallion Lakehouses and Semantic Layers that let AI agents and business users get trusted answers. I also use **AI-assisted development** (Claude, VS Code, etc.) in my own delivery, which has helped me and my teams ship analytical assets **over 10x faster**. I've used such tools in most of the repos in this GitHub profile.
 
-Through **Kedros Analytics**, I work in large scale projects with companies throughout Europe, while I also bring this enterprise-grade approach to Small and Medium-sized Enterprises. Because advanced analytics don't require advanced budgets.
+Through **Kedros Analytics**, I work in large scale projects with large European companies and I also bring this enterprise-grade approach to Small and Medium-sized Enterprises, because advanced analytics don't require advanced budgets.
 
 ---
 
@@ -73,30 +73,6 @@ Client names are omitted; full case studies are on the [Kedros Analytics](https:
 - **Supply chain control tower, Fortune Global 500 pharma:** built Power BI dashboards on OTIF and 3PL performance, and refactored Power BI & Snowflake models. [Case study &rarr;](https://kedros-analytics.github.io/case-global-powerbi.html)
 - **Loan operations reporting, leading Greek bank:** led a team of 3 to deliver 10 Power BI reports plus the SQL Server data mart and SSIS pipelines behind them.
 - **Enterprise Data Warehouse, PeopleCert:** led a team of 5 to build a Kimball-based EDW on Azure with a self-service SSAS model, and delivered 300+ Power BI, SSRS & Python analytical deliverables.
-
----
-
-## Career Highlights
-
-- Increased reporting analysts' productivity **10x** through a holistic self-service BI model
-- Improved Power BI & Snowflake model performance **2.25x** while cutting capacity costs **2.15x**
-- Achieved **>10x productivity** on analytical asset development through AI-assisted engineering workflows
-- Brought DirectQuery report filter refreshes down to **2&ndash;3 seconds** through targeted indexing strategies
-- Led data & BI teams of up to **5 people** across enterprise, banking and energy projects
-
----
-
-## Education & Certifications
-
-- **Ph.D. Computational Game Theory**, Technical University of Crete
-- **M.Sc. Operational Research**, Technical University of Crete
-- **B.Sc. Economics**, University of Crete
-- **Data Mining & Applications Graduate Certificate**, Stanford University
-- **Microsoft Certified: Fabric Analytics Engineer Associate**
-- **Microsoft Certified: Power BI Data Analyst Associate**
-- **Microsoft Certified: Azure AI Engineer Associate**
-
-Published research on time series and game theory using genetic algorithms, e.g. [Coevolutionary genetic algorithms for establishing Nash equilibrium in symmetric Cournot games](https://arxiv.org/abs/0905.3640).
 
 ---
 
