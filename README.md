@@ -12,7 +12,7 @@ I design and build the data foundations, semantic models and BI reports that hel
 
 Lately my focus is on **AI-ready data platforms**: Medallion Lakehouses and Semantic Layers that let AI agents and business users get trusted answers. I also use **AI-assisted development** (Claude, VS Code, etc.) in my own delivery, which has helped me and my teams ship analytical assets **over 10x faster**. I've used such tools in most of the repos in this GitHub profile.
 
-Through **Kedros Analytics**, I work in large scale projects with large European companies and I also bring this enterprise-grade approach to Small and Medium-sized Enterprises, because advanced analytics don't require advanced budgets.
+Through **Kedros Analytics** I work with large European companies, while I also bring this enterprise-grade approach to SMEs, because advanced analytics don't require advanced budgets.
 
 ---
 
